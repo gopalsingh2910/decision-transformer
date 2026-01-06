@@ -67,6 +67,4 @@ Notes: `run.py` calls `utils.loader.load_model()` then `decision_transformer.run
 - To run / train: `run.py` and `decision_transformer` package
 - For environment details: `simulator/environ.py`
 
-If you'd like, I can expand this README with example plots, expected outputs, or a short tutorial on training and evaluation.
-
 ![comparing the algorithms](https://github.com/gopalsingh2910/decision-transformer/blob/main/results/graph.png)
